@@ -24,10 +24,6 @@ Here are some of the projects I've worked on:
 - [Stone Paper Scissor Game](https://github.com/your-username/stone-paper-scissor-game): A classic stone-paper-scissor game implemented with HTML, CSS, and JavaScript.
 - [Tic Tac Toe Game](https://github.com/your-username/tic-tac-toe-game): A simple tic-tac-toe game using HTML, CSS, and JavaScript.
 
-### GitHub Stats
-
-![Priyankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyankar-shukla-386033302)
