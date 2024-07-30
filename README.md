@@ -3,7 +3,7 @@
 I'm Priyankar Shukla, Pursuing Bachelor's Degree in Computer Application From University Of Allahabad.
 ### About Me
 
-- 🌱 I’m currently learning and working with Java, HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning and working with Java,DSA, HTML, CSS, and JavaScript.
 - 🔭 I’m currently working on various projects.
 - 💬 Ask me about web development and Java programming.
 - 📫 How to reach me: [priyankarshukla22@gmail.com](mailto:priyankarshukla22@gmail.com)
