@@ -3,7 +3,7 @@
 I'm Priyankar Shukla, Pursuing Bachelor's Degree in Computer Application From University Of Allahabad.
 ### About Me
 
-- 🌱 I’m currently learning and working with Java,DSA, HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning and working with Java, DSA, HTML, CSS, and JavaScript.
 - 🔭 I’m currently working on various projects.
 - 💬 Ask me about web development and Java programming.
 - 📫 How to reach me: [priyankarshukla22@gmail.com](mailto:priyankarshukla22@gmail.com)
@@ -15,6 +15,13 @@ I'm Priyankar Shukla, Pursuing Bachelor's Degree in Computer Application From Un
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### DSA Tech Stack
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=leetcode&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-008000?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
 ### Projects
 
