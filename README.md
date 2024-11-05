@@ -2,8 +2,6 @@
 
 **Aspiring Software Engineer | Passionate Developer | Coding Enthusiast**
 
-![Character](https://link-to-your-image.com) <!-- Replace with link to an image like the one in your screenshot -->
-
 ---
 
 ## 🛠️ Tech Stack
