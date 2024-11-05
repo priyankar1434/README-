@@ -2,13 +2,16 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/bca-note.appspot.com/o/aa.png?alt=media&token=e54ed75c-bd24-4f37-bf88-4ca3049072e2&_gl=1*1rq9i5j*_ga*MzY4NzQ4NTE4LjE2NzkyODU2NDI.*_ga_CW55HF8NVT*MTY5NjMxMDQxNS4zLjEuMTY5NjMxMDQ4NC42MC4wLjA." height="275px" width="275px"/>
 </div>
 
-<h1 align="center">Hey there! 👋 I'm Priyankar Shukla </h1>
+Hey there! 👋 I'm Priyankar Shukla,
 
 **Aspiring Software Engineer | Passionate Developer | Coding Enthusiast**
 
 ---
 
 ## 🛠️ Tech Stack
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
