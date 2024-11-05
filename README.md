@@ -39,15 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats & Contribution Graph
-
-![Priyankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankarShukla&show_icons=true&theme=radical)
-
-![Priyankar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyankarShukla&theme=radical)
-
-![Priyankar's Contribution Graph](https://github-contribution-graph.ez4o.com/?username=PriyankarShukla&theme=radical)
-
----
 
 ## 📫 Contact Me
 
@@ -65,5 +56,5 @@
 
 ---
 
-> **2024 © Priyankar Shukla**
+Thankyou...
 
