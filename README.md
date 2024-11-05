@@ -1,39 +1,69 @@
-## Hi there! 👋
+# Hey there! 👋 I'm Priyankar Shukla
 
-I'm Priyankar Shukla, Pursuing Bachelor's Degree in Computer Application From University Of Allahabad.
-### About Me
+**Aspiring Software Engineer | Passionate Developer | Coding Enthusiast**
 
-- 🌱 I’m currently learning and working with Java, DSA, HTML, CSS, and JavaScript.
-- 🔭 I’m currently working on various projects.
-- 💬 Ask me about web development and Java programming.
-- 📫 How to reach me: [priyankarshukla22@gmail.com](mailto:priyankarshukla22@gmail.com)
-- ⚡ Fun fact: I love solving coding challenges and exploring new technologies.
+---
 
-### My Tech Stack
+## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FFD700?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Oratory](https://img.shields.io/badge/Oratory-32CD32?style=for-the-badge)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Content Writing](https://img.shields.io/badge/Content%20Writing-FF5733?style=for-the-badge&logo=contentful&logoColor=white)
 
-### DSA Tech Stack
+---
 
-![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=leetcode&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-008000?style=for-the-badge&logo=leetcode&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+## 🚀 Projects
 
-### Projects
+1. **Amazon Website Clone**  
+   *Recreated the look and feel of the Amazon website using HTML, CSS, and JavaScript.*
 
-Here are some of the projects I've worked on:
+2. **Stone Paper Scissor Game**  
+   *A fun, interactive game built with JavaScript, featuring user vs computer gameplay.*
 
-- [Amazon Website Clone](https://github.com/your-username/amazon-website-clone): A clone of the Amazon website using HTML, CSS.
-- [Stone Paper Scissor Game](https://github.com/your-username/stone-paper-scissor-game): A classic stone-paper-scissor game implemented with HTML, CSS, and JavaScript.
-- [Tic Tac Toe Game](https://github.com/your-username/tic-tac-toe-game): A simple tic-tac-toe game using HTML, CSS, and JavaScript.
+3. **Tic Tac Toe Game**  
+   *Classic Tic Tac Toe game for two players, built using web technologies.*
 
-### Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyankar-shukla-386033302)
+## 📜 Achievements & Certifications
+
+- **Ex Campus Ambassador** – Gained valuable experience as an ambassador and received an LOR.
+- **Microsoft Azure Fundamentals**
+- **AWS Get Started Certificate**
+
+---
+
+## 📊 GitHub Stats & Contribution Graph
+
+![Priyankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankarShukla&show_icons=true&theme=radical)
+
+![Priyankar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyankarShukla&theme=radical)
+
+![Priyankar's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=PriyankarShukla&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankarshukla22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyankar-shukla-386033302)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Priyankar25)
 
-Thankyou!
+---
+
+### 🔹 A little more about me:
+
+- 🌱 Currently enhancing my skills in **DSA** and **Java**
+- 💬 Ask me about **web development** or **Java programming**
+- ⚡ Fun fact: I love **public speaking** and enjoy **creative content writing**
+
+---
+
+> **2024 © Priyankar Shukla**
+
