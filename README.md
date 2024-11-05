@@ -2,6 +2,8 @@
 
 **Aspiring Software Engineer | Passionate Developer | Coding Enthusiast**
 
+![Character](https://link-to-your-image.com) <!-- Replace with link to an image like the one in your screenshot -->
+
 ---
 
 ## 🛠️ Tech Stack
@@ -45,7 +47,7 @@
 
 ![Priyankar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyankarShukla&theme=radical)
 
-![Priyankar's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=PriyankarShukla&theme=radical)
+![Priyankar's Contribution Graph](https://github-contribution-graph.ez4o.com/?username=PriyankarShukla&theme=radical)
 
 ---
 
