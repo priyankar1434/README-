@@ -10,8 +10,6 @@ Hey there! 👋 I'm Priyankar Shukla,
 
 ## 🛠️ Tech Stack
 
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
-
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -26,6 +24,11 @@ Hey there! 👋 I'm Priyankar Shukla,
 ---
 
 ## 🚀 Projects
+
+
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+
 
 1. **Amazon Website Clone**  
    *Recreated the look and feel of the Amazon website using HTML, CSS, and JavaScript.*
