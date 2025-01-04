@@ -58,8 +58,7 @@ Hey there! 👋 I'm Priyankar Shukla,
 
 ---
 
-![priyankar1434's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyankar1434&theme=default&hide_border=true)     ![priyankar1434's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankar1434&theme=default&show_icons=true&hide_border=true&layout=compact)    ![priyankar1434's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankar1434&theme=default&show_icons=true&hide_border=true&layout=compact)
-
+![priyankar1434's Stats](https://github-readme-stats.vercel.app/api?username=priyankar1434&theme=default&show_icons=true&hide_border=true&count_private=true) ![priyankar1434's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyankar1434&theme=default&hide_border=true) ![priyankar1434's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankar1434&theme=default&show_icons=true&hide_border=true&layout=compact)
 ### 🔹 A little more about me:
 
 - 🌱 Currently enhancing my skills in **DSA** and **Java**
