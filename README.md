@@ -58,7 +58,7 @@ Hey there! 👋 I'm Priyankar Shukla,
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=priyankar1434)](https://git.io/streak-stats)
+![priyankar1434's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyankar1434&theme=default&hide_border=true)     ![priyankar1434's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankar1434&theme=default&show_icons=true&hide_border=true&layout=compact)    ![priyankar1434's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankar1434&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔹 A little more about me:
 
