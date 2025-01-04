@@ -58,6 +58,8 @@ Hey there! 👋 I'm Priyankar Shukla,
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ### 🔹 A little more about me:
 
 - 🌱 Currently enhancing my skills in **DSA** and **Java**
