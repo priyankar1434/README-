@@ -39,11 +39,13 @@ Hey there! 👋 I'm Priyankar Shukla,
 3. **Tic Tac Toe Game**  
    *Classic Tic Tac Toe game for two players, built using web technologies.*
 
+3. **Portfolio Website**  
+   *Build a simple and attractive Website Using HTML,CSS,JS.*
 ---
 
 ## 📜 Achievements & Certifications
 
-- **Ex Campus Ambassador** – Gained valuable experience as an ambassador and received an LOR.
+- **Ex Campus Ambassador IIT Delhi Rendezvous** – Gained valuable experience as an ambassador and received an LOR.
 - **Microsoft Azure Fundamentals**
 - **AWS Get Started Certificate**
 
